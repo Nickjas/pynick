@@ -1,4 +1,4 @@
-# EidoData Web Application
+# NickData Web Application
 <p align="center">
   <img src="images/im1.jpg/">
 </p>
