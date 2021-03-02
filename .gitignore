@@ -1,0 +1,8 @@
+__pycache__/
+catboost_info/*
+**/.vscode/
+*.log
+mlruns/
+!**/__pycache__/
+**/*.ipynb_checkpoints/
+.ipynb_checkpoint/
