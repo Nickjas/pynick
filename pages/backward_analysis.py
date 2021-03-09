@@ -1,6 +1,6 @@
 from logging import log
 import streamlit as st
-from sdv.tabular import GaussianCopula,CopulaGAN,CTGAN,TVAE
+#from sdv.tabular import GaussianCopula,CopulaGAN,CTGAN,TVAE
 from pycaret.regression import predict_model
 
 
