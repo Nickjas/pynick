@@ -7,7 +7,7 @@ from streamlit.server.server import Server
 from streamlit.hashing import _CodeHasher
 import base64
 from PIL import Image
-#session===========================================================================
+#session============================================================================
 class _SessionState:
 
     def __init__(self, session, hash_funcs):
